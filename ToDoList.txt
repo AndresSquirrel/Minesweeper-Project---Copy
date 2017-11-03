@@ -1,0 +1,6 @@
+Step 1: Make the board: 10 by 10 grid
+Step 2: Make the "printBoard" method (Should just print zeros)
+Step 3: Make the "addBombs" method; Value is going to be -1 (Should be printed as X) (Make sure there is the correct number of bombs)
+Step 4: Create the "addNums" method
+Step 5: Make it look pretty
+*Is bomb, use if statement, if bomb return -1
